@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spacestation>
+    <owner country="USA" leader="trump"/>
+    <count>3</count>
+    <spaceships>
+        <spaceship>
+            <name>Falcon</name>
+            <numberOfCrew>10</numberOfCrew>
+            <price currency="US" validity="oneMonth">1500.0</price>
+        </spaceship>
+        <spaceship>
+            <name>Strom</name>
+            <numberOfCrew>25</numberOfCrew>
+            <price currency="Euro">1500.0</price>
+        </spaceship>
+        <spaceship>
+            <name>Serum</name>
+            <numberOfCrew>9</numberOfCrew>
+            <price currency="DKK">1500.0</price>
+        </spaceship>
+    </spaceships>
+</spacestation>
